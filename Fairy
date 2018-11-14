@@ -1,0 +1,18 @@
+[
+{
+  "modid": "A_Fariy_good_mod",
+  "name": "A Fariy Good Mod",
+  "description": "magic compuer if you need an exsampel thnik refine storge but with fariys",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://minecraft.curseforge.com/projects/A_Fariy_good_mod",
+  "updateUrl": "${updatejson}",
+  "authorList": ["Alexander"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [
+    "ctm"
+  ]
+}
+]
